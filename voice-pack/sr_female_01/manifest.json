@@ -1,0 +1,1349 @@
+{
+  "voice_pack": "sr_female_01",
+  "language": "sr-RS",
+  "format": {
+    "container": "WAV",
+    "encoding": "PCM_S16LE",
+    "channels": 1,
+    "sample_rate_hz": 48000
+  },
+  "source_master": "p_17521777_879.wav",
+  "phrase_count": 225,
+  "segmentation": {
+    "method": "energy_silence_ordered",
+    "threshold_dbfs": -46,
+    "merge_gap_s": 0.47
+  },
+  "required_ready_files": [
+    "greeting_morning.wav",
+    "greeting_day.wav",
+    "greeting_evening.wav",
+    "station_name.wav",
+    "time_is.wav",
+    "hour_00.wav",
+    "hour_01.wav",
+    "hour_02.wav",
+    "hour_03.wav",
+    "hour_04.wav",
+    "hour_05.wav",
+    "hour_06.wav",
+    "hour_07.wav",
+    "hour_08.wav",
+    "hour_09.wav",
+    "hour_10.wav",
+    "hour_11.wav",
+    "hour_12.wav",
+    "hour_13.wav",
+    "hour_14.wav",
+    "hour_15.wav",
+    "hour_16.wav",
+    "hour_17.wav",
+    "hour_18.wav",
+    "hour_19.wav",
+    "hour_20.wav",
+    "hour_21.wav",
+    "hour_22.wav",
+    "hour_23.wav"
+  ],
+  "phrases": [
+    {
+      "index": 1,
+      "file": "greeting_morning.wav",
+      "text": "Dobro jutro.",
+      "duration_s": 0.98
+    },
+    {
+      "index": 2,
+      "file": "greeting_day.wav",
+      "text": "Dobar dan.",
+      "duration_s": 0.86
+    },
+    {
+      "index": 3,
+      "file": "greeting_evening.wav",
+      "text": "Dobro veče.",
+      "duration_s": 1.02
+    },
+    {
+      "index": 4,
+      "file": "phrase_004_pozdrav_svim_slusaocima.wav",
+      "text": "Pozdrav svim slušaocima.",
+      "duration_s": 2.06
+    },
+    {
+      "index": 5,
+      "file": "phrase_005_postovani_slusaoci.wav",
+      "text": "Poštovani slušaoci",
+      "duration_s": 1.42
+    },
+    {
+      "index": 6,
+      "file": "phrase_006_ovo_je_biken.wav",
+      "text": "Ovo je Biken.",
+      "duration_s": 1.06
+    },
+    {
+      "index": 7,
+      "file": "station_name.wav",
+      "text": "Ovo je automatski radio Biken.",
+      "duration_s": 1.86
+    },
+    {
+      "index": 8,
+      "file": "phrase_008_slusate_radio_automatiku_biken.wav",
+      "text": "Slušate automatski radio biken.",
+      "duration_s": 2.5
+    },
+    {
+      "index": 9,
+      "file": "phrase_009_sledi_automatska_informacija.wav",
+      "text": "Sledi automatska informacija.",
+      "duration_s": 2.14
+    },
+    {
+      "index": 10,
+      "file": "time_is.wav",
+      "text": "Tačno je.",
+      "duration_s": 0.94
+    },
+    {
+      "index": 11,
+      "file": "phrase_011_trenutno_je.wav",
+      "text": "Trenutno je.",
+      "duration_s": 1.06
+    },
+    {
+      "index": 12,
+      "file": "phrase_012_vreme_je.wav",
+      "text": "Vreme je.",
+      "duration_s": 0.78
+    },
+    {
+      "index": 13,
+      "file": "hour_00.wav",
+      "text": "Ponoć.",
+      "duration_s": 0.82
+    },
+    {
+      "index": 14,
+      "file": "hour_01.wav",
+      "text": "Jedan čas.",
+      "duration_s": 1.1
+    },
+    {
+      "index": 15,
+      "file": "hour_02.wav",
+      "text": "Dva časa.",
+      "duration_s": 1.14
+    },
+    {
+      "index": 16,
+      "file": "hour_03.wav",
+      "text": "Tri časa.",
+      "duration_s": 0.98
+    },
+    {
+      "index": 17,
+      "file": "hour_04.wav",
+      "text": "Četiri časa.",
+      "duration_s": 1.18
+    },
+    {
+      "index": 18,
+      "file": "hour_05.wav",
+      "text": "Pet časova.",
+      "duration_s": 1.22
+    },
+    {
+      "index": 19,
+      "file": "hour_06.wav",
+      "text": "Šest časova.",
+      "duration_s": 1.38
+    },
+    {
+      "index": 20,
+      "file": "hour_07.wav",
+      "text": "Sedam časova.",
+      "duration_s": 1.22
+    },
+    {
+      "index": 21,
+      "file": "hour_08.wav",
+      "text": "Osam časova.",
+      "duration_s": 1.26
+    },
+    {
+      "index": 22,
+      "file": "hour_09.wav",
+      "text": "Devet časova.",
+      "duration_s": 1.26
+    },
+    {
+      "index": 23,
+      "file": "hour_10.wav",
+      "text": "Deset časova.",
+      "duration_s": 1.34
+    },
+    {
+      "index": 24,
+      "file": "hour_11.wav",
+      "text": "Jedanaest časova.",
+      "duration_s": 1.46
+    },
+    {
+      "index": 25,
+      "file": "hour_12.wav",
+      "text": "Dvanaest časova.",
+      "duration_s": 1.54
+    },
+    {
+      "index": 26,
+      "file": "hour_13.wav",
+      "text": "Trinaest časova.",
+      "duration_s": 1.42
+    },
+    {
+      "index": 27,
+      "file": "hour_14.wav",
+      "text": "Četrnaest časova.",
+      "duration_s": 1.54
+    },
+    {
+      "index": 28,
+      "file": "hour_15.wav",
+      "text": "Petnaest časova.",
+      "duration_s": 1.42
+    },
+    {
+      "index": 29,
+      "file": "hour_16.wav",
+      "text": "Šesnaest časova.",
+      "duration_s": 1.5
+    },
+    {
+      "index": 30,
+      "file": "hour_17.wav",
+      "text": "Sedamnaest časova.",
+      "duration_s": 1.54
+    },
+    {
+      "index": 31,
+      "file": "hour_18.wav",
+      "text": "Osamnaest časova.",
+      "duration_s": 1.46
+    },
+    {
+      "index": 32,
+      "file": "hour_19.wav",
+      "text": "Devetnaest časova.",
+      "duration_s": 1.9
+    },
+    {
+      "index": 33,
+      "file": "hour_20.wav",
+      "text": "Dvadeset časova.",
+      "duration_s": 1.46
+    },
+    {
+      "index": 34,
+      "file": "hour_21.wav",
+      "text": "Dvadeset jedan čas.",
+      "duration_s": 1.98
+    },
+    {
+      "index": 35,
+      "file": "hour_22.wav",
+      "text": "Dvadeset dva časa.",
+      "duration_s": 1.9
+    },
+    {
+      "index": 36,
+      "file": "hour_23.wav",
+      "text": "Dvadeset tri časa.",
+      "duration_s": 1.74
+    },
+    {
+      "index": 37,
+      "file": "phrase_037_podne.wav",
+      "text": "Podne.",
+      "duration_s": 0.74
+    },
+    {
+      "index": 38,
+      "file": "phrase_038_temperatura_je.wav",
+      "text": "Temperatura je.",
+      "duration_s": 1.18
+    },
+    {
+      "index": 39,
+      "file": "phrase_039_trenutna_temperatura_je.wav",
+      "text": "Trenutna temperatura je.",
+      "duration_s": 1.7
+    },
+    {
+      "index": 40,
+      "file": "phrase_040_spoljna_temperatura_je.wav",
+      "text": "Spoljna temperatura je.",
+      "duration_s": 1.5
+    },
+    {
+      "index": 41,
+      "file": "phrase_041_minus.wav",
+      "text": "Minus.",
+      "duration_s": 0.9
+    },
+    {
+      "index": 42,
+      "file": "phrase_042_nula.wav",
+      "text": "Nula.",
+      "duration_s": 0.7
+    },
+    {
+      "index": 43,
+      "file": "phrase_043_jedan.wav",
+      "text": "Jedan.",
+      "duration_s": 0.78
+    },
+    {
+      "index": 44,
+      "file": "phrase_044_dva.wav",
+      "text": "Dva.",
+      "duration_s": 0.62
+    },
+    {
+      "index": 45,
+      "file": "phrase_045_tri.wav",
+      "text": "Tri.",
+      "duration_s": 0.62
+    },
+    {
+      "index": 46,
+      "file": "phrase_046_cetiri.wav",
+      "text": "Četiri.",
+      "duration_s": 0.86
+    },
+    {
+      "index": 47,
+      "file": "phrase_047_pet.wav",
+      "text": "Pet.",
+      "duration_s": 0.7
+    },
+    {
+      "index": 48,
+      "file": "phrase_048_sest.wav",
+      "text": "Šest.",
+      "duration_s": 0.94
+    },
+    {
+      "index": 49,
+      "file": "phrase_049_sedam.wav",
+      "text": "Sedam.",
+      "duration_s": 0.82
+    },
+    {
+      "index": 50,
+      "file": "phrase_050_osam.wav",
+      "text": "Osam.",
+      "duration_s": 0.82
+    },
+    {
+      "index": 51,
+      "file": "phrase_051_devet.wav",
+      "text": "Devet.",
+      "duration_s": 0.82
+    },
+    {
+      "index": 52,
+      "file": "phrase_052_deset.wav",
+      "text": "Deset.",
+      "duration_s": 0.9
+    },
+    {
+      "index": 53,
+      "file": "phrase_053_jedanaest.wav",
+      "text": "Jedanaest.",
+      "duration_s": 1.06
+    },
+    {
+      "index": 54,
+      "file": "phrase_054_dvanaest.wav",
+      "text": "Dvanaest.",
+      "duration_s": 1.02
+    },
+    {
+      "index": 55,
+      "file": "phrase_055_trinaest.wav",
+      "text": "Trinaest.",
+      "duration_s": 0.98
+    },
+    {
+      "index": 56,
+      "file": "phrase_056_cetrnaest.wav",
+      "text": "Četrnaest.",
+      "duration_s": 1.02
+    },
+    {
+      "index": 57,
+      "file": "phrase_057_petnaest.wav",
+      "text": "Petnaest.",
+      "duration_s": 1.06
+    },
+    {
+      "index": 58,
+      "file": "phrase_058_sesnaest.wav",
+      "text": "Šesnaest.",
+      "duration_s": 1.02
+    },
+    {
+      "index": 59,
+      "file": "phrase_059_sedamnaest.wav",
+      "text": "Sedamnaest.",
+      "duration_s": 1.14
+    },
+    {
+      "index": 60,
+      "file": "phrase_060_osamnaest.wav",
+      "text": "Osamnaest.",
+      "duration_s": 1.14
+    },
+    {
+      "index": 61,
+      "file": "phrase_061_devetnaest.wav",
+      "text": "Devetnaest.",
+      "duration_s": 1.1
+    },
+    {
+      "index": 62,
+      "file": "phrase_062_dvadeset.wav",
+      "text": "Dvadeset.",
+      "duration_s": 1.18
+    },
+    {
+      "index": 63,
+      "file": "phrase_063_dvadeset_jedan.wav",
+      "text": "Dvadeset jedan.",
+      "duration_s": 1.34
+    },
+    {
+      "index": 64,
+      "file": "phrase_064_dvadeset_dva.wav",
+      "text": "Dvadeset dva.",
+      "duration_s": 1.34
+    },
+    {
+      "index": 65,
+      "file": "phrase_065_dvadeset_tri.wav",
+      "text": "Dvadeset tri.",
+      "duration_s": 1.14
+    },
+    {
+      "index": 66,
+      "file": "phrase_066_dvadeset_cetiri.wav",
+      "text": "Dvadeset četiri.",
+      "duration_s": 1.5
+    },
+    {
+      "index": 67,
+      "file": "phrase_067_dvadeset_pet.wav",
+      "text": "Dvadeset pet.",
+      "duration_s": 1.46
+    },
+    {
+      "index": 68,
+      "file": "phrase_068_dvadeset_sest.wav",
+      "text": "Dvadeset šest.",
+      "duration_s": 1.54
+    },
+    {
+      "index": 69,
+      "file": "phrase_069_dvadeset_sedam.wav",
+      "text": "Dvadeset sedam.",
+      "duration_s": 1.82
+    },
+    {
+      "index": 70,
+      "file": "phrase_070_dvadeset_osam.wav",
+      "text": "Dvadeset osam.",
+      "duration_s": 1.86
+    },
+    {
+      "index": 71,
+      "file": "phrase_071_dvadeset_devet.wav",
+      "text": "Dvadeset devet.",
+      "duration_s": 1.7
+    },
+    {
+      "index": 72,
+      "file": "phrase_072_trideset.wav",
+      "text": "Trideset.",
+      "duration_s": 1.02
+    },
+    {
+      "index": 73,
+      "file": "phrase_073_trideset_jedan.wav",
+      "text": "Trideset jedan.",
+      "duration_s": 1.3
+    },
+    {
+      "index": 74,
+      "file": "phrase_074_trideset_dva.wav",
+      "text": "Trideset dva.",
+      "duration_s": 1.26
+    },
+    {
+      "index": 75,
+      "file": "phrase_075_trideset_tri.wav",
+      "text": "Trideset tri.",
+      "duration_s": 1.26
+    },
+    {
+      "index": 76,
+      "file": "phrase_076_trideset_cetiri.wav",
+      "text": "Trideset četiri.",
+      "duration_s": 1.54
+    },
+    {
+      "index": 77,
+      "file": "phrase_077_trideset_pet.wav",
+      "text": "Trideset pet.",
+      "duration_s": 1.34
+    },
+    {
+      "index": 78,
+      "file": "phrase_078_trideset_sest.wav",
+      "text": "Trideset šest.",
+      "duration_s": 1.58
+    },
+    {
+      "index": 79,
+      "file": "phrase_079_trideset_sedam.wav",
+      "text": "Trideset sedam.",
+      "duration_s": 1.18
+    },
+    {
+      "index": 80,
+      "file": "phrase_080_trideset_osam.wav",
+      "text": "Trideset osam.",
+      "duration_s": 1.5
+    },
+    {
+      "index": 81,
+      "file": "phrase_081_trideset_devet.wav",
+      "text": "Trideset devet.",
+      "duration_s": 1.42
+    },
+    {
+      "index": 82,
+      "file": "phrase_082_cetrdeset.wav",
+      "text": "Četrdeset.",
+      "duration_s": 1.18
+    },
+    {
+      "index": 83,
+      "file": "phrase_083_cetrdeset_jedan.wav",
+      "text": "Četrdeset jedan.",
+      "duration_s": 1.5
+    },
+    {
+      "index": 84,
+      "file": "phrase_084_cetrdeset_dva.wav",
+      "text": "Četrdeset dva.",
+      "duration_s": 1.38
+    },
+    {
+      "index": 85,
+      "file": "phrase_085_cetrdeset_tri.wav",
+      "text": "Četrdeset tri.",
+      "duration_s": 1.38
+    },
+    {
+      "index": 86,
+      "file": "phrase_086_cetrdeset_cetiri.wav",
+      "text": "Četrdeset četiri.",
+      "duration_s": 1.78
+    },
+    {
+      "index": 87,
+      "file": "phrase_087_cetrdeset_pet.wav",
+      "text": "Četrdeset pet.",
+      "duration_s": 1.5
+    },
+    {
+      "index": 88,
+      "file": "phrase_088_stepen.wav",
+      "text": "Stepen.",
+      "duration_s": 0.94
+    },
+    {
+      "index": 89,
+      "file": "phrase_089_stepena.wav",
+      "text": "Stepena.",
+      "duration_s": 0.94
+    },
+    {
+      "index": 90,
+      "file": "phrase_090_stepeni.wav",
+      "text": "Stepeni.",
+      "duration_s": 0.98
+    },
+    {
+      "index": 91,
+      "file": "phrase_091_vreme_je_vedro.wav",
+      "text": "Vreme je vedro.",
+      "duration_s": 1.18
+    },
+    {
+      "index": 92,
+      "file": "phrase_092_vreme_je_pretezno_vedro.wav",
+      "text": "Vreme je pretežno vedro.",
+      "duration_s": 1.78
+    },
+    {
+      "index": 93,
+      "file": "phrase_093_vreme_je_delimicno_oblacno.wav",
+      "text": "Vreme je delimično oblačno.",
+      "duration_s": 2.02
+    },
+    {
+      "index": 94,
+      "file": "phrase_094_vreme_je_pretezno_oblacno.wav",
+      "text": "Vreme je pretežno oblačno.",
+      "duration_s": 2.46
+    },
+    {
+      "index": 95,
+      "file": "phrase_095_vreme_je_oblacno.wav",
+      "text": "Vreme je oblačno.",
+      "duration_s": 1.5
+    },
+    {
+      "index": 96,
+      "file": "phrase_096_pada_slaba_kisa.wav",
+      "text": "Pada slaba kiša.",
+      "duration_s": 1.34
+    },
+    {
+      "index": 97,
+      "file": "phrase_097_pada_kisa.wav",
+      "text": "Pada kiša.",
+      "duration_s": 1.18
+    },
+    {
+      "index": 98,
+      "file": "phrase_098_pada_jaka_kisa.wav",
+      "text": "Pada jaka kiša.",
+      "duration_s": 1.42
+    },
+    {
+      "index": 99,
+      "file": "phrase_099_moguci_su_pljuskovi.wav",
+      "text": "Mogući su pljuskovi.",
+      "duration_s": 1.62
+    },
+    {
+      "index": 100,
+      "file": "phrase_100_moguci_su_kisa_i_pljuskovi.wav",
+      "text": "Moguća su kiša i pljuskovi.",
+      "duration_s": 2.18
+    },
+    {
+      "index": 101,
+      "file": "phrase_101_pada_slab_sneg.wav",
+      "text": "Pada slab sneg.",
+      "duration_s": 1.3
+    },
+    {
+      "index": 102,
+      "file": "phrase_102_pada_sneg.wav",
+      "text": "Pada sneg.",
+      "duration_s": 1.1
+    },
+    {
+      "index": 103,
+      "file": "phrase_103_pada_jak_sneg.wav",
+      "text": "Pada jak sneg.",
+      "duration_s": 1.18
+    },
+    {
+      "index": 104,
+      "file": "phrase_104_moguci_su_sneg_i_susnezica.wav",
+      "text": "Mogući su sneg i susnežica.",
+      "duration_s": 2.22
+    },
+    {
+      "index": 105,
+      "file": "phrase_105_ima_magle.wav",
+      "text": "Ima magle.",
+      "duration_s": 1.1
+    },
+    {
+      "index": 106,
+      "file": "phrase_106_vidljivost_je_smanjena_zbog_magle.wav",
+      "text": "Vidljivost je smanjena zbog magle.",
+      "duration_s": 2.22
+    },
+    {
+      "index": 107,
+      "file": "phrase_107_moguca_je_grmljavina.wav",
+      "text": "Moguća je grmljavina.",
+      "duration_s": 1.46
+    },
+    {
+      "index": 108,
+      "file": "phrase_108_moguci_su_pljuskovi_sa_grmljavinom.wav",
+      "text": "Moguci su pljuskovi sa grmljavinom.",
+      "duration_s": 2.22
+    },
+    {
+      "index": 109,
+      "file": "phrase_109_vreme_je_vetrovito.wav",
+      "text": "Vreme je vetrovito.",
+      "duration_s": 1.42
+    },
+    {
+      "index": 110,
+      "file": "phrase_110_duva_pojacan_vetar.wav",
+      "text": "Duva pojačan vetar.",
+      "duration_s": 1.74
+    },
+    {
+      "index": 111,
+      "file": "phrase_111_hvala_na_paznji.wav",
+      "text": "Hvala na pažnji.",
+      "duration_s": 1.3
+    },
+    {
+      "index": 112,
+      "file": "phrase_112_prijatan_dan.wav",
+      "text": "Prijatan dan.",
+      "duration_s": 1.18
+    },
+    {
+      "index": 113,
+      "file": "phrase_113_prijatno_vece.wav",
+      "text": "Prijatno veče.",
+      "duration_s": 1.14
+    },
+    {
+      "index": 114,
+      "file": "phrase_114_prijatnu_noc.wav",
+      "text": "Prijatnu noć.",
+      "duration_s": 1.26
+    },
+    {
+      "index": 115,
+      "file": "phrase_115_srdacan_pozdrav.wav",
+      "text": "Srdačan pozdrav.",
+      "duration_s": 1.42
+    },
+    {
+      "index": 116,
+      "file": "phrase_116_do_sledece_najave.wav",
+      "text": "Do sledeće najave.",
+      "duration_s": 1.46
+    },
+    {
+      "index": 117,
+      "file": "phrase_117_hvala_na_paznji_i_prijatan_dan.wav",
+      "text": "Hvala na pažnji i prijatan dan.",
+      "duration_s": 2.26
+    },
+    {
+      "index": 118,
+      "file": "phrase_118_hvala_na_paznji_i_prijatno_vece.wav",
+      "text": "Hvala na pažnji i prijatno veče.",
+      "duration_s": 2.3
+    },
+    {
+      "index": 119,
+      "file": "phrase_119_hvala_na_paznji_i_prijatnu_noc.wav",
+      "text": "Hvala na pažnji i prijatnu noć.",
+      "duration_s": 2.18
+    },
+    {
+      "index": 120,
+      "file": "phrase_120_do_sledece_najave_srdacan_pozdrav.wav",
+      "text": "Do sledeće najave, srdačan pozdrav.",
+      "duration_s": 2.38
+    },
+    {
+      "index": 121,
+      "file": "phrase_121_ovo_je_test_audio_sistema.wav",
+      "text": "Ovo je test audio sistema.",
+      "duration_s": 2.06
+    },
+    {
+      "index": 122,
+      "file": "phrase_122_ovo_je_test_govorne_automatike.wav",
+      "text": "Ovo je test govorne automatike.",
+      "duration_s": 2.14
+    },
+    {
+      "index": 123,
+      "file": "phrase_123_test_govorne_automatike_je_u_toku.wav",
+      "text": "Test govorne automatike je u toku.",
+      "duration_s": 2.26
+    },
+    {
+      "index": 124,
+      "file": "phrase_124_test_audio_sistema_je_uspesno_zavrsen.wav",
+      "text": "Test audio sistema je uspešno završen.",
+      "duration_s": 2.7
+    },
+    {
+      "index": 125,
+      "file": "phrase_125_ovo_je_probna_radio_emisija.wav",
+      "text": "Ovo je probna radio emisija.",
+      "duration_s": 2.14
+    },
+    {
+      "index": 126,
+      "file": "phrase_126_provera_nivoa_zvuka.wav",
+      "text": "Provera nivoa zvuka.",
+      "duration_s": 1.58
+    },
+    {
+      "index": 127,
+      "file": "phrase_127_jedan_dva_tri_cetiri_pet.wav",
+      "text": "Jedan, dva, tri, četiri, pet.",
+      "duration_s": 3.38
+    },
+    {
+      "index": 128,
+      "file": "phrase_128_sledi_vazna_informacija.wav",
+      "text": "Sledi važna informacija.",
+      "duration_s": 1.86
+    },
+    {
+      "index": 129,
+      "file": "phrase_129_sledi_servisna_informacija.wav",
+      "text": "Sledi servisna informacija.",
+      "duration_s": 2.02
+    },
+    {
+      "index": 130,
+      "file": "phrase_130_automatska_najava_je_zavrsena.wav",
+      "text": "Automatska najava je završena",
+      "duration_s": 2.1
+    },
+    {
+      "index": 131,
+      "file": "phrase_131_informacija_trenutno_nije_dostupna.wav",
+      "text": "Informacija trenutno nije dostupna.",
+      "duration_s": 2.42
+    },
+    {
+      "index": 132,
+      "file": "phrase_132_podaci_o_vremenu_trenutno_nisu_dostupni.wav",
+      "text": "Podaci o vremenu trenutno nisu dostupni.",
+      "duration_s": 2.74
+    },
+    {
+      "index": 133,
+      "file": "phrase_133_podaci_o_temperaturi_trenutno_nisu_dostupni.wav",
+      "text": "Podaci o temperaturi trenutno nisu dostupni.",
+      "duration_s": 3.02
+    },
+    {
+      "index": 134,
+      "file": "phrase_134_vi_ste_na_kanalu_pmr.wav",
+      "text": "Vi ste na kanalu PMR.",
+      "duration_s": 1.98
+    },
+    {
+      "index": 135,
+      "file": "phrase_135_nalazite_se_na_kanalu_pmr.wav",
+      "text": "Nalazite se na kanalu PMR.",
+      "duration_s": 2.62
+    },
+    {
+      "index": 136,
+      "file": "phrase_136_slusate_kanal_pmr.wav",
+      "text": "Slušate kanal PMR.",
+      "duration_s": 1.82
+    },
+    {
+      "index": 137,
+      "file": "phrase_137_ovo_je_kanal_pmr.wav",
+      "text": "Ovo je kanal PMR.",
+      "duration_s": 1.78
+    },
+    {
+      "index": 138,
+      "file": "phrase_138_trenutno_ste_na_kanalu_pmr.wav",
+      "text": "Trenutno ste na kanalu PMR.",
+      "duration_s": 2.18
+    },
+    {
+      "index": 139,
+      "file": "phrase_139_jedan_plus.wav",
+      "text": "Jedan plus.",
+      "duration_s": 1.18
+    },
+    {
+      "index": 140,
+      "file": "phrase_140_dva_plus.wav",
+      "text": "Dva plus.",
+      "duration_s": 1.06
+    },
+    {
+      "index": 141,
+      "file": "phrase_141_tri_plus.wav",
+      "text": "Tri plus.",
+      "duration_s": 0.98
+    },
+    {
+      "index": 142,
+      "file": "phrase_142_cetiri_plus.wav",
+      "text": "Četiri plus.",
+      "duration_s": 1.18
+    },
+    {
+      "index": 143,
+      "file": "phrase_143_pet_plus.wav",
+      "text": "Pet plus.",
+      "duration_s": 1.14
+    },
+    {
+      "index": 144,
+      "file": "phrase_144_sest_plus.wav",
+      "text": "Šest plus.",
+      "duration_s": 1.34
+    },
+    {
+      "index": 145,
+      "file": "phrase_145_sedam_plus.wav",
+      "text": "Sedam plus.",
+      "duration_s": 1.1
+    },
+    {
+      "index": 146,
+      "file": "phrase_146_osam_plus.wav",
+      "text": "Osam plus.",
+      "duration_s": 1.26
+    },
+    {
+      "index": 147,
+      "file": "phrase_147_devet_plus.wav",
+      "text": "Devet plus.",
+      "duration_s": 1.26
+    },
+    {
+      "index": 148,
+      "file": "phrase_148_deset_plus.wav",
+      "text": "Deset plus.",
+      "duration_s": 1.18
+    },
+    {
+      "index": 149,
+      "file": "phrase_149_jedanaest_plus.wav",
+      "text": "Jedanaest plus.",
+      "duration_s": 1.5
+    },
+    {
+      "index": 150,
+      "file": "phrase_150_dvanaest_plus.wav",
+      "text": "Dvanaest plus.",
+      "duration_s": 1.46
+    },
+    {
+      "index": 151,
+      "file": "phrase_151_trinaest_plus.wav",
+      "text": "Trinaest plus.",
+      "duration_s": 1.14
+    },
+    {
+      "index": 152,
+      "file": "phrase_152_cetrnaest_plus.wav",
+      "text": "Četrnaest plus",
+      "duration_s": 1.5
+    },
+    {
+      "index": 153,
+      "file": "phrase_153_petnaest_plus.wav",
+      "text": "Petnaest plus.",
+      "duration_s": 1.22
+    },
+    {
+      "index": 154,
+      "file": "phrase_154_sesnaest_plus.wav",
+      "text": "Šesnaest plus.",
+      "duration_s": 1.46
+    },
+    {
+      "index": 155,
+      "file": "phrase_155_ekipe_obrenovac.wav",
+      "text": "Ekipe Obrenovac.",
+      "duration_s": 1.54
+    },
+    {
+      "index": 156,
+      "file": "phrase_156_ekipa_obrenovac.wav",
+      "text": "Ekipa Obrenovac.",
+      "duration_s": 1.54
+    },
+    {
+      "index": 161,
+      "file": "phrase_161_sdr.wav",
+      "text": "SDR.",
+      "duration_s": 1.1
+    },
+    {
+      "index": 162,
+      "file": "phrase_162_sdr_kosutnjak.wav",
+      "text": "SDR Košutnjak.",
+      "duration_s": 1.78
+    },
+    {
+      "index": 163,
+      "file": "phrase_163_ovo_je_sdr_kosutnjak.wav",
+      "text": "Ovo je SDR Košutnjak.",
+      "duration_s": 2.66
+    },
+    {
+      "index": 164,
+      "file": "phrase_164_slusate_sdr_kosutnjak.wav",
+      "text": "Slušate SDR Košutnjak.",
+      "duration_s": 2.58
+    },
+    {
+      "index": 165,
+      "file": "phrase_165_sdr_kosutnjak_vas_pozdravlja.wav",
+      "text": "SDR Košutnjak vas pozdravlja.",
+      "duration_s": 2.54
+    },
+    {
+      "index": 166,
+      "file": "phrase_166_sdr_kosutnjak_vam_zeli_prijatan_dan.wav",
+      "text": "SDR Košutnjak vam želi prijatan dan.",
+      "duration_s": 3.06
+    },
+    {
+      "index": 167,
+      "file": "phrase_167_sdr_kosutnjak_vam_zeli_prijatno_vece.wav",
+      "text": "SDR Košutnjak vam želi prijatno veče.",
+      "duration_s": 3.18
+    },
+    {
+      "index": 168,
+      "file": "phrase_168_sdr_kosutnjak_vam_zeli_prijatnu_noc.wav",
+      "text": "SDR Košutnjak vam želi prijatnu noć.",
+      "duration_s": 3.38
+    },
+    {
+      "index": 169,
+      "file": "phrase_169_ekipe.wav",
+      "text": "Ekipe.",
+      "duration_s": 0.82
+    },
+    {
+      "index": 170,
+      "file": "phrase_170_ekipa.wav",
+      "text": "Ekipa.",
+      "duration_s": 0.9
+    },
+    {
+      "index": 172,
+      "file": "phrase_172_radio.wav",
+      "text": "Radio.",
+      "duration_s": 0.94
+    },
+    {
+      "index": 173,
+      "file": "phrase_173_mreze.wav",
+      "text": "Mreže.",
+      "duration_s": 0.86
+    },
+    {
+      "index": 174,
+      "file": "phrase_174_srbije.wav",
+      "text": "Srbije.",
+      "duration_s": 0.86
+    },
+    {
+      "index": 175,
+      "file": "phrase_175_kosutnjak.wav",
+      "text": "Košutnjak.",
+      "duration_s": 1.14
+    },
+    {
+      "index": 176,
+      "file": "phrase_176_vas_pozdravlja.wav",
+      "text": "Vas pozdravlja.",
+      "duration_s": 1.18
+    },
+    {
+      "index": 177,
+      "file": "phrase_177_vam_zeli.wav",
+      "text": "Vam želi.",
+      "duration_s": 0.82
+    },
+    {
+      "index": 178,
+      "file": "phrase_178_zeli_vam.wav",
+      "text": "Želi vam.",
+      "duration_s": 0.94
+    },
+    {
+      "index": 179,
+      "file": "phrase_179_i.wav",
+      "text": "I.",
+      "duration_s": 0.62
+    },
+    {
+      "index": 181,
+      "file": "phrase_181_za.wav",
+      "text": "Za.",
+      "duration_s": 0.58
+    },
+    {
+      "index": 182,
+      "file": "phrase_182_clanove.wav",
+      "text": "Članove.",
+      "duration_s": 0.86
+    },
+    {
+      "index": 183,
+      "file": "phrase_183_slusaoce.wav",
+      "text": "Slušaoce.",
+      "duration_s": 1.1
+    },
+    {
+      "index": 184,
+      "file": "phrase_184_vi_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac.wav",
+      "text": "Vi ste na kanalu PMR trinaest ekipe Obrenovac.",
+      "duration_s": 3.74
+    },
+    {
+      "index": 186,
+      "file": "phrase_186_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatan_dan.wav",
+      "text": "Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatan dan.",
+      "duration_s": 5.3
+    },
+    {
+      "index": 187,
+      "file": "phrase_187_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatno_vece.wav",
+      "text": "Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatno veče.",
+      "duration_s": 5.22
+    },
+    {
+      "index": 188,
+      "file": "phrase_188_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatnu_noc.wav",
+      "text": "Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatnu noć.",
+      "duration_s": 5.42
+    },
+    {
+      "index": 189,
+      "file": "phrase_189_pozdrav_svim_slusaocima_vi_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac.wav",
+      "text": "Pozdrav svim slušaocima. Vi ste na kanalu PMR trinaest ekipe Obrenovac.",
+      "duration_s": 5.86
+    },
+    {
+      "index": 191,
+      "file": "phrase_191_dobar_dan_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatan_da.wav",
+      "text": "Dobar dan. Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatan dan.",
+      "duration_s": 5.98
+    },
+    {
+      "index": 192,
+      "file": "phrase_192_dobro_vece_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatno_v.wav",
+      "text": "Dobro veče. Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatno veče.",
+      "duration_s": 6.3
+    },
+    {
+      "index": 193,
+      "file": "phrase_193_slusate_kanal_pmr_sest_sdr_kosutnjak_vas_pozdravlja.wav",
+      "text": "Slušate kanal PMR šest. SDR Košutnjak vas pozdravlja.",
+      "duration_s": 4.54
+    },
+    {
+      "index": 195,
+      "file": "phrase_195_trenutno_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac.wav",
+      "text": "Trenutno ste na kanalu PMR trinaest ekipe Obrenovac.",
+      "duration_s": 4.06
+    },
+    {
+      "index": 196,
+      "file": "phrase_196_dobro_jutro_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatan_.wav",
+      "text": "Dobro jutro. Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatan dan.",
+      "duration_s": 6.14
+    },
+    {
+      "index": 197,
+      "file": "phrase_197_dobar_dan_vi_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac.wav",
+      "text": "Dobar dan. Vi ste na kanalu PMR trinaest ekipe Obrenovac",
+      "duration_s": 4.62
+    },
+    {
+      "index": 199,
+      "file": "phrase_199_pozdrav_svim_slusaocima_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vas_po.wav",
+      "text": "Pozdrav svim slušaocima. Vi ste na kanalu PMR šest. SDR Košutnjak vas pozdravlja.",
+      "duration_s": 6.7
+    },
+    {
+      "index": 201,
+      "file": "phrase_201_ovo_je_sdr_kosutnjak_vi_ste_na_kanalu_pmr_sest.wav",
+      "text": "Ovo je SDR Košutnjak. Vi ste na kanalu PMR šest.",
+      "duration_s": 4.82
+    },
+    {
+      "index": 202,
+      "file": "phrase_202_slusate_sdr_kosutnjak_nalazite_se_na_kanalu_pmr_sest.wav",
+      "text": "Slušate SDR Košutnjak. Nalazite se na kanalu PMR šest.",
+      "duration_s": 5.38
+    },
+    {
+      "index": 203,
+      "file": "phrase_203_dobar_dan_ovo_je_sdr_kosutnjak_vi_ste_na_kanalu_pmr_sest_tacno_je_cetr.wav",
+      "text": "Dobar dan. Ovo je SDR Košutnjak. Vi ste na kanalu PMR šest. Tačno je četrnaest časova.",
+      "duration_s": 7.74
+    },
+    {
+      "index": 205,
+      "file": "phrase_205_pozdrav_svim_slusaocima_vi_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac_.wav",
+      "text": "Pozdrav svim slušaocima. Vi ste na kanalu PMR trinaest ekipe Obrenovac. Trenutna temperatura je dvadeset dva stepena.",
+      "duration_s": 9.38
+    },
+    {
+      "index": 206,
+      "file": "phrase_206_dobar_dan_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatan_da.wav",
+      "text": "Dobar dan. Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatan dan. Hvala na pažnji.",
+      "duration_s": 7.34
+    },
+    {
+      "index": 208,
+      "file": "phrase_208_dobro_jutro_dragi_obrenovcani_obrenka_je_uz_vas.wav",
+      "text": "Dobro jutro, dragi Obrenovčani. Obrenka je uz vas.",
+      "duration_s": 3.42
+    },
+    {
+      "index": 209,
+      "file": "phrase_209_dobar_dan_komsije_pozdravlja_vas_vasa_obrenka.wav",
+      "text": "Dobar dan, komšije. Pozdravlja vas vaša Obrenka.",
+      "duration_s": 3.86
+    },
+    {
+      "index": 210,
+      "file": "phrase_210_dobro_vece_obrenovce_uz_vas_je_obrenka.wav",
+      "text": "Dobro veče, Obrenovče. Uz vas je Obrenka.",
+      "duration_s": 3.22
+    },
+    {
+      "index": 211,
+      "file": "phrase_211_dragi_prijatelji_javlja_vam_se_obrenka.wav",
+      "text": "Dragi prijatelji, javlja vam se Obrenka.",
+      "duration_s": 2.86
+    },
+    {
+      "index": 212,
+      "file": "phrase_212_jedan_veliki_pozdrav_za_obrenovac_i_sve_dobre_ljude_na_vezi.wav",
+      "text": "Jedan veliki pozdrav za Obrenovac i sve dobre ljude na vezi.",
+      "duration_s": 3.58
+    },
+    {
+      "index": 213,
+      "file": "phrase_213_evo_mene_ponovo_da_vas_podsetim_koliko_je_sati.wav",
+      "text": "Evo mene ponovo, da vas podsetim koliko je sati.",
+      "duration_s": 3.1
+    },
+    {
+      "index": 214,
+      "file": "phrase_214_da_ne_gledate_na_sat_obrenka_je_tu.wav",
+      "text": "Da ne gledate na sat, Obrenka je tu.",
+      "duration_s": 2.3
+    },
+    {
+      "index": 215,
+      "file": "phrase_215_samo_na_trenutak_da_vam_se_javim.wav",
+      "text": "Samo na trenutak da vam se javim.",
+      "duration_s": 2.1
+    },
+    {
+      "index": 216,
+      "file": "phrase_216_za_komsije_na_kanalu_trinaest_stizu_tacno_vreme_i_prognoza.wav",
+      "text": "Za komšije na kanalu trinaest, stižu tačno vreme i prognoza.",
+      "duration_s": 4.46
+    },
+    {
+      "index": 217,
+      "file": "phrase_217_cuvajte_se_i_budite_dobro_vasa_obrenka.wav",
+      "text": "Čuvajte se i budite dobro. Vaša Obrenka.",
+      "duration_s": 3.46
+    },
+    {
+      "index": 218,
+      "file": "phrase_218_hvala_vam_sto_ste_bili_uz_mene_cujemo_se_na_sledeci_puni_sat.wav",
+      "text": "Hvala vam što ste bili uz mene. Čujemo se na sledeći puni sat.",
+      "duration_s": 4.42
+    },
+    {
+      "index": 219,
+      "file": "phrase_219_budite_mi_vedri_zdravi_i_nasmejani.wav",
+      "text": "Budite mi vedri, zdravi i nasmejani.",
+      "duration_s": 2.86
+    },
+    {
+      "index": 220,
+      "file": "phrase_220_hvala_na_paznji_komsije_obrenka_vas_srdacno_pozdravlja.wav",
+      "text": "Hvala na pažnji, komšije. Obrenka vas srdačno pozdravlja.",
+      "duration_s": 4.34
+    },
+    {
+      "index": 221,
+      "file": "phrase_221_za_obrenovac_sa_osmehom_vasa_obrenka.wav",
+      "text": "Za Obrenovac, sa osmehom. Vaša Obrenka.",
+      "duration_s": 3.78
+    },
+    {
+      "index": 222,
+      "file": "phrase_222_obrenka_kaze_osmeh_na_lice_i_polako_kroz_dan.wav",
+      "text": "Obrenka kaže, osmeh na lice i polako kroz dan.",
+      "duration_s": 3.66
+    },
+    {
+      "index": 223,
+      "file": "phrase_223_komsije_cuvajte_jedni_druge_pozdravlja_vas_obrenka.wav",
+      "text": "Komšije, čuvajte jedni druge. Pozdravlja vas Obrenka.",
+      "duration_s": 3.98
+    },
+    {
+      "index": 224,
+      "file": "phrase_224_generalni_sponzor_obrenkine_vremenske_prognoze.wav",
+      "text": "Generalni sponzor Obrenkine vremenske prognoze.",
+      "duration_s": 3.275,
+      "category": "Sponzori i specijalne fraze"
+    },
+    {
+      "index": 225,
+      "file": "phrase_225_nedelja_kanarevo.wav",
+      "text": "Nedelja Kanarevo.",
+      "duration_s": 1.31,
+      "category": "Sponzori i specijalne fraze"
+    },
+    {
+      "index": 226,
+      "file": "phrase_226_karlo_koviona.wav",
+      "text": "Karlo Koviona.",
+      "duration_s": 1.404,
+      "category": "Sponzori i specijalne fraze"
+    },
+    {
+      "index": 227,
+      "file": "phrase_227_brejk_brejk_brejk.wav",
+      "text": "Brejk,Brejk,Brejk!",
+      "category": "Prekid Veze",
+      "managed_by": "SAMPLE_LIBRARY_V1"
+    }
+  ],
+  "audit_status": "EXACT_MARKERS_DESCRIPTION_REFERENCE",
+  "audit_sample_count": 234,
+  "audit_note": "Markers.csv Description remains authoritative. Natural leading/trailing silence added without changing sample content or mapping.",
+  "pause_profile": {
+    "name": "natural_radio_v1",
+    "leading_silence_ms": 120,
+    "trailing_silence_ms_short": 180,
+    "trailing_silence_ms_long": 220,
+    "long_sample_threshold_s": 3.5
+  },
+  "last_voice_pack_addition": "Sponsor samples 224-225"
+}

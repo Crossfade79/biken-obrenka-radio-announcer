@@ -1,0 +1,8 @@
+BIKEN Voice Pack leveled samples only
+Speech target: -18 LUFS integrated
+Hourly chime target: -16.5 LUFS integrated
+Chime intended difference: about +1.5 dB over speech
+Peak safety: -3 dB, verified with 4x oversampling
+Format: mono, 48000 Hz, PCM 16-bit
+Names and folder structure preserved.
+No application code, configuration or CSS is included.

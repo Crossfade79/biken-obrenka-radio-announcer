@@ -1,0 +1,40 @@
+{
+  "active_preset": "BIKEN TEST",
+  "presets": {
+    "BIKEN TEST": {
+      "name": "BIKEN TEST",
+      "blocks": [
+        {
+          "type": "PHRASE",
+          "text": "Ovo je test govorne automatike.",
+          "file": "phrase_122_ovo_je_test_govorne_automatike.wav",
+          "label": "Ovo je test govorne automatike."
+        },
+        {
+          "type": "CHIME",
+          "label": "Zvučni signal"
+        },
+        {
+          "type": "PHRASE",
+          "text": "Test audio sistema je uspešno završen.",
+          "file": "phrase_124_test_audio_sistema_je_uspesno_zavrsen.wav",
+          "label": "Test audio sistema je uspešno završen."
+        }
+      ]
+    },
+    "OBRENKA DEMO": {
+      "name": "OBRENKA DEMO",
+      "blocks": [
+        {
+          "type": "OBRENKA_GREETING_RANDOM"
+        },
+        {
+          "type": "TIME_CURRENT"
+        },
+        {
+          "type": "OBRENKA_GOODBYE_RANDOM"
+        }
+      ]
+    }
+  }
+}

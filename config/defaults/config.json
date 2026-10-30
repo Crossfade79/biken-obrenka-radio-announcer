@@ -1,0 +1,19 @@
+{
+  "name": "BIKEN",
+  "ptt_gpio_bcm": 17,
+  "ptt_active_high": true,
+  "default_duration_s": 20,
+  "pre_roll_s": 1,
+  "post_roll_s": 0.5,
+  "max_tx_s": 60,
+  "sample_rate": 48000,
+  "audio_level": 0.45,
+  "tone_a_hz": 1200,
+  "tone_b_hz": 1800,
+  "chip_ms": 8,
+  "marker_period_s": 1.0,
+  "beacon_format": "BIKEN_V3_3_CONTINUOUS_AUDIO_GPSSEC_CRC8",
+  "web_host": "0.0.0.0",
+  "web_port": 8891,
+  "dry_run_gpio": true
+}

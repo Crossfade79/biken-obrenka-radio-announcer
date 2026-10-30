@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Runtime
+runtime/
+logs/
+backups/
+*.tmp
+*.log
+
+# Local review/export files
+config-review/
+
+# Local config / secrets
+.env
+*.local.json
+*.secret
+*.key
+*.pem
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+*~

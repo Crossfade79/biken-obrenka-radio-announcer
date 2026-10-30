@@ -1,0 +1,7 @@
+{
+  "name": "Audio EQ",
+  "id": "audio_eq",
+  "plugin_api_version": 1,
+  "type": "audio_processor",
+  "description": "HPF + bass + low-mid + presence + treble + LPF"
+}

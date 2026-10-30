@@ -1,0 +1,20 @@
+[Unit]
+Description=BIKEN + Obrenka Radio Announcer
+After=network-online.target chrony.service sound.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/biken-v4
+ExecStart=/usr/bin/python3 /opt/biken-v4/biken_v4.py
+Restart=on-failure
+RestartSec=2
+KillMode=mixed
+TimeoutStopSec=8
+LimitRTPRIO=95
+LimitMEMLOCK=infinity
+Nice=-5
+
+[Install]
+WantedBy=multi-user.target

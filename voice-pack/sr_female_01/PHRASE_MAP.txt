@@ -1,0 +1,195 @@
+001	greeting_morning.wav	Dobro jutro.
+002	greeting_day.wav	Dobar dan.
+003	greeting_evening.wav	Dobro veče.
+004	phrase_004_pozdrav_svim_slusaocima.wav	Pozdrav svim slušaocima.
+005	phrase_005_postovani_slusaoci.wav	Poštovani slušaoci.
+006	phrase_006_ovo_je_biken.wav	Ovo je BIKEN.
+007	station_name.wav	Ovo je radio automatika BIKEN.
+008	phrase_008_slusate_radio_automatiku_biken.wav	Slušate radio automatiku BIKEN.
+009	phrase_009_sledi_automatska_informacija.wav	Sledi automatska informacija.
+010	time_is.wav	Tačno je.
+011	phrase_011_trenutno_je.wav	Trenutno je.
+012	phrase_012_vreme_je.wav	Vreme je.
+013	hour_00.wav	Ponoć.
+014	hour_01.wav	Jedan čas.
+015	hour_02.wav	Dva časa.
+016	hour_03.wav	Tri časa.
+017	hour_04.wav	Četiri časa.
+018	hour_05.wav	Pet časova.
+019	hour_06.wav	Šest časova.
+020	hour_07.wav	Sedam časova.
+021	hour_08.wav	Osam časova.
+022	hour_09.wav	Devet časova.
+023	hour_10.wav	Deset časova.
+024	hour_11.wav	Jedanaest časova.
+025	hour_12.wav	Dvanaest časova.
+026	hour_13.wav	Trinaest časova.
+027	hour_14.wav	Četrnaest časova.
+028	hour_15.wav	Petnaest časova.
+029	hour_16.wav	Šesnaest časova.
+030	hour_17.wav	Sedamnaest časova.
+031	hour_18.wav	Osamnaest časova.
+032	hour_19.wav	Devetnaest časova.
+033	hour_20.wav	Dvadeset časova.
+034	hour_21.wav	Dvadeset jedan čas.
+035	hour_22.wav	Dvadeset dva časa.
+036	hour_23.wav	Dvadeset tri časa.
+037	phrase_037_podne.wav	Podne.
+038	phrase_038_temperatura_je.wav	Temperatura je.
+039	phrase_039_trenutna_temperatura_je.wav	Trenutna temperatura je.
+040	phrase_040_spoljna_temperatura_je.wav	Spoljna temperatura je.
+041	phrase_041_minus.wav	Minus.
+042	phrase_042_nula.wav	Nula.
+043	phrase_043_jedan.wav	Jedan.
+044	phrase_044_dva.wav	Dva.
+045	phrase_045_tri.wav	Tri.
+046	phrase_046_cetiri.wav	Četiri.
+047	phrase_047_pet.wav	Pet.
+048	phrase_048_sest.wav	Šest.
+049	phrase_049_sedam.wav	Sedam.
+050	phrase_050_osam.wav	Osam.
+051	phrase_051_devet.wav	Devet.
+052	phrase_052_deset.wav	Deset.
+053	phrase_053_jedanaest.wav	Jedanaest.
+054	phrase_054_dvanaest.wav	Dvanaest.
+055	phrase_055_trinaest.wav	Trinaest.
+056	phrase_056_cetrnaest.wav	Četrnaest.
+057	phrase_057_petnaest.wav	Petnaest.
+058	phrase_058_sesnaest.wav	Šesnaest.
+059	phrase_059_sedamnaest.wav	Sedamnaest.
+060	phrase_060_osamnaest.wav	Osamnaest.
+061	phrase_061_devetnaest.wav	Devetnaest.
+062	phrase_062_dvadeset.wav	Dvadeset.
+063	phrase_063_dvadeset_jedan.wav	Dvadeset jedan.
+064	phrase_064_dvadeset_dva.wav	Dvadeset dva.
+065	phrase_065_dvadeset_tri.wav	Dvadeset tri.
+066	phrase_066_dvadeset_cetiri.wav	Dvadeset četiri.
+067	phrase_067_dvadeset_pet.wav	Dvadeset pet.
+068	phrase_068_dvadeset_sest.wav	Dvadeset šest.
+069	phrase_069_dvadeset_sedam.wav	Dvadeset sedam.
+070	phrase_070_dvadeset_osam.wav	Dvadeset osam.
+071	phrase_071_dvadeset_devet.wav	Dvadeset devet.
+072	phrase_072_trideset.wav	Trideset.
+073	phrase_073_trideset_jedan.wav	Trideset jedan.
+074	phrase_074_trideset_dva.wav	Trideset dva.
+075	phrase_075_trideset_tri.wav	Trideset tri.
+076	phrase_076_trideset_cetiri.wav	Trideset četiri.
+077	phrase_077_trideset_pet.wav	Trideset pet.
+078	phrase_078_trideset_sest.wav	Trideset šest.
+079	phrase_079_trideset_sedam.wav	Trideset sedam.
+080	phrase_080_trideset_osam.wav	Trideset osam.
+081	phrase_081_trideset_devet.wav	Trideset devet.
+082	phrase_082_cetrdeset.wav	Četrdeset.
+083	phrase_083_cetrdeset_jedan.wav	Četrdeset jedan.
+084	phrase_084_cetrdeset_dva.wav	Četrdeset dva.
+085	phrase_085_cetrdeset_tri.wav	Četrdeset tri.
+086	phrase_086_cetrdeset_cetiri.wav	Četrdeset četiri.
+087	phrase_087_cetrdeset_pet.wav	Četrdeset pet.
+088	phrase_088_stepen.wav	Stepen.
+089	phrase_089_stepena.wav	Stepena.
+090	phrase_090_stepeni.wav	Stepeni.
+091	phrase_091_vreme_je_vedro.wav	Vreme je vedro.
+092	phrase_092_vreme_je_pretezno_vedro.wav	Vreme je pretežno vedro.
+093	phrase_093_vreme_je_delimicno_oblacno.wav	Vreme je delimično oblačno.
+094	phrase_094_vreme_je_pretezno_oblacno.wav	Vreme je pretežno oblačno.
+095	phrase_095_vreme_je_oblacno.wav	Vreme je oblačno.
+096	phrase_096_pada_slaba_kisa.wav	Pada slaba kiša.
+097	phrase_097_pada_kisa.wav	Pada kiša.
+098	phrase_098_pada_jaka_kisa.wav	Pada jaka kiša.
+099	phrase_099_moguci_su_pljuskovi.wav	Mogući su pljuskovi.
+100	phrase_100_moguci_su_kisa_i_pljuskovi.wav	Mogući su kiša i pljuskovi.
+101	phrase_101_pada_slab_sneg.wav	Pada slab sneg.
+102	phrase_102_pada_sneg.wav	Pada sneg.
+103	phrase_103_pada_jak_sneg.wav	Pada jak sneg.
+104	phrase_104_moguci_su_sneg_i_susnezica.wav	Mogući su sneg i susnežica.
+105	phrase_105_ima_magle.wav	Ima magle.
+106	phrase_106_vidljivost_je_smanjena_zbog_magle.wav	Vidljivost je smanjena zbog magle.
+107	phrase_107_moguca_je_grmljavina.wav	Moguća je grmljavina.
+108	phrase_108_moguci_su_pljuskovi_sa_grmljavinom.wav	Mogući su pljuskovi sa grmljavinom.
+109	phrase_109_vreme_je_vetrovito.wav	Vreme je vetrovito.
+110	phrase_110_duva_pojacan_vetar.wav	Duva pojačan vetar.
+111	phrase_111_hvala_na_paznji.wav	Hvala na pažnji.
+112	phrase_112_prijatan_dan.wav	Prijatan dan.
+113	phrase_113_prijatno_vece.wav	Prijatno veče.
+114	phrase_114_prijatnu_noc.wav	Prijatnu noć.
+115	phrase_115_srdacan_pozdrav.wav	Srdačan pozdrav.
+116	phrase_116_do_sledece_najave.wav	Do sledeće najave.
+117	phrase_117_hvala_na_paznji_i_prijatan_dan.wav	Hvala na pažnji i prijatan dan.
+118	phrase_118_hvala_na_paznji_i_prijatno_vece.wav	Hvala na pažnji i prijatno veče.
+119	phrase_119_hvala_na_paznji_i_prijatnu_noc.wav	Hvala na pažnji i prijatnu noć.
+120	phrase_120_do_sledece_najave_srdacan_pozdrav.wav	Do sledeće najave, srdačan pozdrav.
+121	phrase_121_ovo_je_test_audio_sistema.wav	Ovo je test audio sistema.
+122	phrase_122_ovo_je_test_govorne_automatike.wav	Ovo je test govorne automatike.
+123	phrase_123_test_govorne_automatike_je_u_toku.wav	Test govorne automatike je u toku.
+124	phrase_124_test_audio_sistema_je_uspesno_zavrsen.wav	Test audio sistema je uspešno završen.
+125	phrase_125_ovo_je_probna_radio_emisija.wav	Ovo je probna radio-emisija.
+126	phrase_126_provera_nivoa_zvuka.wav	Provera nivoa zvuka.
+127	phrase_127_jedan_dva_tri_cetiri_pet.wav	Jedan, dva, tri, četiri, pet.
+128	phrase_128_sledi_vazna_informacija.wav	Sledi važna informacija.
+129	phrase_129_sledi_servisna_informacija.wav	Sledi servisna informacija.
+130	phrase_130_automatska_najava_je_zavrsena.wav	Automatska najava je završena.
+131	phrase_131_informacija_trenutno_nije_dostupna.wav	Informacija trenutno nije dostupna.
+132	phrase_132_podaci_o_vremenu_trenutno_nisu_dostupni.wav	Podaci o vremenu trenutno nisu dostupni.
+133	phrase_133_podaci_o_temperaturi_trenutno_nisu_dostupni.wav	Podaci o temperaturi trenutno nisu dostupni.
+134	phrase_134_vi_ste_na_kanalu_pmr.wav	Vi ste na kanalu PMR.
+135	phrase_135_nalazite_se_na_kanalu_pmr.wav	Nalazite se na kanalu PMR.
+136	phrase_136_slusate_kanal_pmr.wav	Slušate kanal PMR.
+137	phrase_137_ovo_je_kanal_pmr.wav	Ovo je kanal PMR.
+138	phrase_138_trenutno_ste_na_kanalu_pmr.wav	Trenutno ste na kanalu PMR.
+139	phrase_139_jedan_plus.wav	Jedan plus.
+140	phrase_140_dva_plus.wav	Dva plus.
+141	phrase_141_tri_plus.wav	Tri plus.
+142	phrase_142_cetiri_plus.wav	Četiri plus.
+143	phrase_143_pet_plus.wav	Pet plus.
+144	phrase_144_sest_plus.wav	Šest plus.
+145	phrase_145_sedam_plus.wav	Sedam plus.
+146	phrase_146_osam_plus.wav	Osam plus.
+147	phrase_147_devet_plus.wav	Devet plus.
+148	phrase_148_deset_plus.wav	Deset plus.
+149	phrase_149_jedanaest_plus.wav	Jedanaest plus.
+150	phrase_150_dvanaest_plus.wav	Dvanaest plus.
+151	phrase_151_trinaest_plus.wav	Trinaest plus.
+152	phrase_152_cetrnaest_plus.wav	Četrnaest plus.
+153	phrase_153_petnaest_plus.wav	Petnaest plus.
+154	phrase_154_sesnaest_plus.wav	Šesnaest plus.
+155	phrase_155_ekipe_obrenovac.wav	Ekipe Obrenovac.
+156	phrase_156_ekipa_obrenovac.wav	Ekipa Obrenovac.
+161	phrase_161_sdr.wav	SDR.
+162	phrase_162_sdr_kosutnjak.wav	SDR Košutnjak.
+163	phrase_163_ovo_je_sdr_kosutnjak.wav	Ovo je SDR Košutnjak.
+164	phrase_164_slusate_sdr_kosutnjak.wav	Slušate SDR Košutnjak.
+165	phrase_165_sdr_kosutnjak_vas_pozdravlja.wav	SDR Košutnjak vas pozdravlja.
+166	phrase_166_sdr_kosutnjak_vam_zeli_prijatan_dan.wav	SDR Košutnjak vam želi prijatan dan.
+167	phrase_167_sdr_kosutnjak_vam_zeli_prijatno_vece.wav	SDR Košutnjak vam želi prijatno veče.
+168	phrase_168_sdr_kosutnjak_vam_zeli_prijatnu_noc.wav	SDR Košutnjak vam želi prijatnu noć.
+169	phrase_169_ekipe.wav	Ekipe.
+170	phrase_170_ekipa.wav	Ekipa.
+172	phrase_172_radio.wav	Radio.
+173	phrase_173_mreze.wav	Mreže.
+174	phrase_174_srbije.wav	Srbije.
+175	phrase_175_kosutnjak.wav	Košutnjak.
+176	phrase_176_vas_pozdravlja.wav	Vas pozdravlja.
+177	phrase_177_vam_zeli.wav	Vam želi.
+178	phrase_178_zeli_vam.wav	Želi vam.
+179	phrase_179_i.wav	I.
+180	phrase_180_na.wav	Na.
+181	phrase_181_za.wav	Za.
+182	phrase_182_clanove.wav	Članove.
+183	phrase_183_slusaoce.wav	Slušaoce.
+184	phrase_184_vi_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac.wav	Vi ste na kanalu PMR trinaest ekipe Obrenovac.
+186	phrase_186_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatan_dan.wav	Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatan dan.
+187	phrase_187_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatno_vece.wav	Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatno veče.
+188	phrase_188_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatnu_noc.wav	Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatnu noć.
+189	phrase_189_pozdrav_svim_slusaocima_vi_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac.wav	Pozdrav svim slušaocima. Vi ste na kanalu PMR trinaest ekipe Obrenovac.
+191	phrase_191_dobar_dan_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatan_da.wav	Dobar dan. Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatan dan.
+192	phrase_192_dobro_vece_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatno_v.wav	Dobro veče. Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatno veče.
+193	phrase_193_slusate_kanal_pmr_sest_sdr_kosutnjak_vas_pozdravlja.wav	Slušate kanal PMR šest. SDR Košutnjak vas pozdravlja.
+195	phrase_195_trenutno_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac.wav	Trenutno ste na kanalu PMR trinaest ekipe Obrenovac.
+196	phrase_196_dobro_jutro_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatan_.wav	Dobro jutro. Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatan dan.
+197	phrase_197_dobar_dan_vi_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac.wav	Dobar dan. Vi ste na kanalu PMR trinaest ekipe Obrenovac.
+199	phrase_199_pozdrav_svim_slusaocima_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vas_po.wav	Pozdrav svim slušaocima. Vi ste na kanalu PMR šest. SDR Košutnjak vas pozdravlja.
+201	phrase_201_ovo_je_sdr_kosutnjak_vi_ste_na_kanalu_pmr_sest.wav	Ovo je SDR Košutnjak. Vi ste na kanalu PMR šest.
+202	phrase_202_slusate_sdr_kosutnjak_nalazite_se_na_kanalu_pmr_sest.wav	Slušate SDR Košutnjak. Nalazite se na kanalu PMR šest.
+203	phrase_203_dobar_dan_ovo_je_sdr_kosutnjak_vi_ste_na_kanalu_pmr_sest_tacno_je_cetr.wav	Dobar dan. Ovo je SDR Košutnjak. Vi ste na kanalu PMR šest. Tačno je četrnaest časova.
+205	phrase_205_pozdrav_svim_slusaocima_vi_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac_.wav	Pozdrav svim slušaocima. Vi ste na kanalu PMR trinaest ekipe Obrenovac. Trenutna temperatura je dvadeset dva stepena.
+206	phrase_206_dobar_dan_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatan_da.wav	Dobar dan. Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatan dan. Hvala na pažnji.

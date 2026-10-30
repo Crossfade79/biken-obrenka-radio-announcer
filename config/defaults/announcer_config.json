@@ -1,0 +1,22 @@
+{
+  "master_enable": false,
+  "automation": false,
+  "schedule_mode": "MANUAL",
+  "manual_hours": [],
+  "voice_pack": "sr_female_01",
+  "pre_roll_s": 1.0,
+  "post_roll_s": 0.5,
+  "max_tx_s": 60.0,
+  "hourly_chime": true,
+  "greeting": "AUTO",
+  "include_station": true,
+  "include_time": true,
+  "include_weather": false,
+  "station_phrase": "station_name.wav",
+  "weather_mode": "MANUAL",
+  "manual_temperature_c": null,
+  "manual_condition": null,
+  "online_weather_url": "",
+  "audio_device": "default",
+  "time_source": "AUTO"
+}

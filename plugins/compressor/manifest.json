@@ -1,0 +1,7 @@
+{
+  "name": "Compressor",
+  "id": "compressor",
+  "plugin_api_version": 1,
+  "type": "audio_processor",
+  "description": "Voice compressor with threshold, ratio, attack, release, soft knee and make-up gain"
+}

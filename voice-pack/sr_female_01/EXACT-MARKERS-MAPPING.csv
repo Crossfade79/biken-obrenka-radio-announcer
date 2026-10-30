@@ -1,0 +1,223 @@
+﻿REDNI_BROJ;NAZIV_WAV_FAJLA;DESCRIPTION_IZ_MARKERS_CSV;START;DURATION;TRAJANJE_S
+1;hourly_chime.wav;[Zvučni signal punog sata / chime];00:00:00:00;00:00:01:23;1.92
+2;greeting_morning.wav;Dobro jutro.;00:00:05:06;00:00:00:17;0.68
+3;greeting_day.wav;Dobar dan.;00:00:09:04;00:00:00:14;0.56
+4;greeting_evening.wav;Dobro veče.;00:00:13:00;00:00:00:18;0.72
+5;station_name.wav;Ovo je automatski radio Biken.;00:00:16:24;00:00:01:14;1.56
+6;time_is.wav;Tačno je.;00:00:21:19;00:00:00:16;0.64
+7;hour_00.wav;Ponoć.;00:00:25:17;00:00:00:13;0.52
+8;hour_01.wav;Jedan čas.;00:00:29:12;00:00:00:20;0.8
+9;hour_02.wav;Dva časa.;00:00:33:14;00:00:00:21;0.84
+10;hour_03.wav;Tri časa.;00:00:37:17;00:00:00:17;0.68
+11;hour_04.wav;Četiri časa.;00:00:41:16;00:00:00:22;0.88
+12;hour_05.wav;Pet časova.;00:00:45:20;00:00:00:23;0.92
+13;hour_06.wav;Šest časova.;00:00:49:24;00:00:01:02;1.08
+14;hour_07.wav;Sedam časova.;00:00:54:08;00:00:00:23;0.92
+15;hour_08.wav;Osam časova.;00:00:58:12;00:00:00:24;0.96
+16;hour_09.wav;Devet časova.;00:01:02:18;00:00:00:24;0.96
+17;hour_10.wav;Deset časova.;00:01:07:00;00:00:01:01;1.04
+18;hour_11.wav;Jedanaest časova.;00:01:11:07;00:00:01:04;1.16
+19;hour_12.wav;Dvanaest časova.;00:01:15:17;00:00:01:06;1.24
+20;hour_13.wav;Trinaest časova.;00:01:20:06;00:00:01:03;1.12
+21;hour_14.wav;Četrnaest časova.;00:01:24:15;00:00:01:06;1.24
+22;hour_15.wav;Petnaest časova.;00:01:29:03;00:00:01:03;1.12
+23;hour_16.wav;Šesnaest časova.;00:01:33:13;00:00:01:05;1.2
+24;hour_17.wav;Sedamnaest časova.;00:01:38:00;00:00:01:06;1.24
+25;hour_18.wav;Osamnaest časova.;00:01:42:12;00:00:01:04;1.16
+26;hour_19.wav;Devetnaest časova.;00:01:46:20;00:00:01:15;1.6
+27;hour_20.wav;Dvadeset časova.;00:01:51:17;00:00:01:04;1.16
+28;hour_21.wav;Dvadeset jedan čas.;00:01:56:00;00:00:01:17;1.68
+29;hour_22.wav;Dvadeset dva časa.;00:02:00:24;00:00:01:15;1.6
+30;hour_23.wav;Dvadeset tri časa.;00:02:05:20;00:00:01:11;1.44
+31;phrase_004_pozdrav_svim_slusaocima.wav;Pozdrav svim slušaocima.;00:02:10:14;00:00:01:19;1.76
+32;phrase_005_postovani_slusaoci.wav;Poštovani slušaoci;00:02:15:14;00:00:01:03;1.12
+33;phrase_006_ovo_je_biken.wav;Ovo je Biken.;00:02:20:00;00:00:00:19;0.76
+34;phrase_008_slusate_radio_automatiku_biken.wav;Slušate automatski radio biken.;00:02:24:02;00:00:02:05;2.2
+35;phrase_009_sledi_automatska_informacija.wav;Sledi automatska informacija.;00:02:29:12;00:00:01:21;1.84
+36;phrase_011_trenutno_je.wav;Trenutno je.;00:02:34:16;00:00:00:19;0.76
+37;phrase_012_vreme_je.wav;Vreme je.;00:02:38:16;00:00:00:12;0.48
+38;phrase_037_podne.wav;Podne.;00:02:42:10;00:00:00:11;0.44
+39;phrase_038_temperatura_je.wav;Temperatura je.;00:02:46:03;00:00:00:22;0.88
+40;phrase_039_trenutna_temperatura_je.wav;Trenutna temperatura je.;00:02:50:07;00:00:01:10;1.4
+41;phrase_040_spoljna_temperatura_je.wav;Spoljna temperatura je.;00:02:54:24;00:00:01:05;1.2
+42;phrase_041_minus.wav;Minus.;00:02:59:11;00:00:00:15;0.6
+43;phrase_042_nula.wav;Nula.;00:03:03:08;00:00:00:10;0.4
+44;phrase_043_jedan.wav;Jedan.;00:03:07:00;00:00:00:12;0.48
+45;phrase_044_dva.wav;Dva.;00:03:10:17;00:00:00:08;0.32
+46;phrase_045_tri.wav;Tri.;00:03:14:08;00:00:00:08;0.32
+47;phrase_046_cetiri.wav;Četiri.;00:03:17:22;00:00:00:14;0.56
+48;phrase_047_pet.wav;Pet.;00:03:21:20;00:00:00:10;0.4
+49;phrase_048_sest.wav;Šest.;00:03:25:11;00:00:00:16;0.64
+50;phrase_049_sedam.wav;Sedam.;00:03:29:08;00:00:00:13;0.52
+51;phrase_050_osam.wav;Osam.;00:03:33:02;00:00:00:13;0.52
+52;phrase_051_devet.wav;Devet.;00:03:36:22;00:00:00:13;0.52
+53;phrase_052_deset.wav;Deset.;00:03:40:17;00:00:00:15;0.6
+54;phrase_053_jedanaest.wav;Jedanaest.;00:03:44:14;00:00:00:19;0.76
+55;phrase_054_dvanaest.wav;Dvanaest.;00:03:48:15;00:00:00:18;0.72
+56;phrase_055_trinaest.wav;Trinaest.;00:03:52:14;00:00:00:17;0.68
+57;phrase_056_cetrnaest.wav;Četrnaest.;00:03:56:11;00:00:00:18;0.72
+58;phrase_057_petnaest.wav;Petnaest.;00:04:00:11;00:00:00:19;0.76
+59;phrase_058_sesnaest.wav;Šesnaest.;00:04:04:11;00:00:00:18;0.72
+60;phrase_059_sedamnaest.wav;Sedamnaest.;00:04:08:08;00:00:00:21;0.84
+61;phrase_060_osamnaest.wav;Osamnaest.;00:04:11:05;00:00:00:21;0.84
+62;phrase_061_devetnaest.wav;Devetnaest.;00:04:14:01;00:00:00:20;0.8
+63;phrase_062_dvadeset.wav;Dvadeset.;00:04:18:01;00:00:00:22;0.88
+64;phrase_063_dvadeset_jedan.wav;Dvadeset jedan.;00:04:22:05;00:00:01:01;1.04
+65;phrase_064_dvadeset_dva.wav;Dvadeset dva.;00:04:26:13;00:00:01:01;1.04
+66;phrase_065_dvadeset_tri.wav;Dvadeset tri.;00:04:30:20;00:00:00:21;0.84
+67;phrase_066_dvadeset_cetiri.wav;Dvadeset četiri.;00:04:34:24;00:00:01:05;1.2
+68;phrase_067_dvadeset_pet.wav;Dvadeset pet.;00:04:39:09;00:00:01:04;1.16
+69;phrase_068_dvadeset_sest.wav;Dvadeset šest.;00:04:43:16;00:00:01:06;1.24
+70;phrase_069_dvadeset_sedam.wav;Dvadeset sedam.;00:04:48:04;00:00:01:13;1.52
+71;phrase_070_dvadeset_osam.wav;Dvadeset osam.;00:04:53:00;00:00:01:14;1.56
+72;phrase_071_dvadeset_devet.wav;Dvadeset devet.;00:04:57:21;00:00:01:10;1.4
+73;phrase_072_trideset.wav;Trideset.;00:05:02:12;00:00:00:18;0.72
+74;phrase_073_trideset_jedan.wav;Trideset jedan.;00:05:06:13;00:00:01:00;1.0
+75;phrase_074_trideset_dva.wav;Trideset dva.;00:05:10:21;00:00:00:24;0.96
+76;phrase_075_trideset_tri.wav;Trideset tri.;00:05:15:01;00:00:00:24;0.96
+77;phrase_076_trideset_cetiri.wav;Trideset četiri.;00:05:19:08;00:00:01:06;1.24
+78;phrase_077_trideset_pet.wav;Trideset pet.;00:05:23:20;00:00:01:01;1.04
+79;phrase_078_trideset_sest.wav;Trideset šest.;00:05:28:03;00:00:01:07;1.28
+80;phrase_079_trideset_sedam.wav;Trideset sedam.;00:05:32:13;00:00:00:22;0.88
+81;phrase_080_trideset_osam.wav;Trideset osam.;00:05:36:15;00:00:01:05;1.2
+82;phrase_081_trideset_devet.wav;Trideset devet.;00:05:40:23;00:00:01:03;1.12
+83;phrase_082_cetrdeset.wav;Četrdeset.;00:05:45:05;00:00:00:22;0.88
+84;phrase_083_cetrdeset_jedan.wav;Četrdeset jedan.;00:05:49:09;00:00:01:05;1.2
+85;phrase_084_cetrdeset_dva.wav;Četrdeset dva.;00:05:53:21;00:00:01:02;1.08
+86;phrase_085_cetrdeset_tri.wav;Četrdeset tri.;00:05:58:05;00:00:01:02;1.08
+87;phrase_086_cetrdeset_cetiri.wav;Četrdeset četiri.;00:06:02:14;00:00:01:12;1.48
+88;phrase_087_cetrdeset_pet.wav;Četrdeset pet.;00:06:07:09;00:00:01:05;1.2
+89;phrase_088_stepen.wav;Stepen.;00:06:11:20;00:00:00:16;0.64
+90;phrase_089_stepena.wav;Stepena.;00:06:15:17;00:00:00:16;0.64
+91;phrase_090_stepeni.wav;Stepeni.;00:06:19:14;00:00:00:17;0.68
+92;phrase_091_vreme_je_vedro.wav;Vreme je vedro.;00:06:23:13;00:00:00:22;0.88
+93;phrase_092_vreme_je_pretezno_vedro.wav;Vreme je pretežno vedro.;00:06:27:17;00:00:01:12;1.48
+94;phrase_093_vreme_je_delimicno_oblacno.wav;Vreme je delimično oblačno.;00:06:32:10;00:00:01:18;1.72
+95;phrase_094_vreme_je_pretezno_oblacno.wav;Vreme je pretežno oblačno.;00:06:37:11;00:00:02:04;2.16
+96;phrase_095_vreme_je_oblacno.wav;Vreme je oblačno.;00:06:42:22;00:00:01:05;1.2
+97;phrase_096_pada_slaba_kisa.wav;Pada slaba kiša.;00:06:47:09;00:00:01:01;1.04
+98;phrase_097_pada_kisa.wav;Pada kiša.;00:06:51:18;00:00:00:22;0.88
+99;phrase_098_pada_jaka_kisa.wav;Pada jaka kiša.;00:06:55:22;00:00:01:03;1.12
+100;phrase_099_moguci_su_pljuskovi.wav;Mogući su pljuskovi.;00:07:00:07;00:00:01:08;1.32
+101;phrase_100_moguci_su_kisa_i_pljuskovi.wav;Moguća su kiša i pljuskovi.;00:07:04:22;00:00:01:22;1.88
+102;phrase_101_pada_slab_sneg.wav;Pada slab sneg.;00:07:10:01;00:00:01:00;1.0
+103;phrase_102_pada_sneg.wav;Pada sneg.;00:07:14:06;00:00:00:20;0.8
+104;phrase_103_pada_jak_sneg.wav;Pada jak sneg.;00:07:18:07;00:00:00:22;0.88
+105;phrase_104_moguci_su_sneg_i_susnezica.wav;Mogući su sneg i susnežica.;00:07:22:10;00:00:01:23;1.92
+106;phrase_105_ima_magle.wav;Ima magle.;00:07:27:14;00:00:00:20;0.8
+107;phrase_106_vidljivost_je_smanjena_zbog_magle.wav;Vidljivost je smanjena zbog magle.;00:07:31:17;00:00:01:23;1.92
+108;phrase_107_moguca_je_grmljavina.wav;Moguća je grmljavina.;00:07:36:22;00:00:01:04;1.16
+109;phrase_108_moguci_su_pljuskovi_sa_grmljavinom.wav;Moguci su pljuskovi sa grmljavinom.;00:07:41:09;00:00:01:23;1.92
+110;phrase_109_vreme_je_vetrovito.wav;Vreme je vetrovito.;00:07:46:14;00:00:01:03;1.12
+111;phrase_110_duva_pojacan_vetar.wav;Duva pojačan vetar.;00:07:50:23;00:00:01:11;1.44
+112;phrase_111_hvala_na_paznji.wav;Hvala na pažnji.;00:07:55:16;00:00:01:00;1.0
+113;phrase_112_prijatan_dan.wav;Prijatan dan.;00:07:59:23;00:00:00:22;0.88
+114;phrase_113_prijatno_vece.wav;Prijatno veče.;00:08:04:03;00:00:00:21;0.84
+115;phrase_114_prijatnu_noc.wav;Prijatnu noć.;00:08:08:06;00:00:00:24;0.96
+116;phrase_115_srdacan_pozdrav.wav;Srdačan pozdrav.;00:08:12:11;00:00:01:03;1.12
+117;phrase_116_do_sledece_najave.wav;Do sledeće najave.;00:08:16:20;00:00:01:04;1.16
+118;phrase_117_hvala_na_paznji_i_prijatan_dan.wav;Hvala na pažnji i prijatan dan.;00:08:21:03;00:00:01:24;1.96
+119;phrase_118_hvala_na_paznji_i_prijatno_vece.wav;Hvala na pažnji i prijatno veče.;00:08:26:10;00:00:02:00;2.0
+120;phrase_119_hvala_na_paznji_i_prijatnu_noc.wav;Hvala na pažnji i prijatnu noć.;00:08:31:16;00:00:01:22;1.88
+121;phrase_120_do_sledece_najave_srdacan_pozdrav.wav;Do sledeće najave, srdačan pozdrav.;00:08:36:20;00:00:02:02;2.08
+122;phrase_121_ovo_je_test_audio_sistema.wav;Ovo je test audio sistema.;00:08:42:02;00:00:01:19;1.76
+123;phrase_122_ovo_je_test_govorne_automatike.wav;Ovo je test govorne automatike.;00:08:47:03;00:00:01:21;1.84
+124;phrase_123_test_govorne_automatike_je_u_toku.wav;Test govorne automatike je u toku.;00:08:52:06;00:00:01:24;1.96
+125;phrase_124_test_audio_sistema_je_uspesno_zavrsen.wav;Test audio sistema je uspešno završen.;00:08:57:11;00:00:02:10;2.4
+126;phrase_125_ovo_je_probna_radio_emisija.wav;Ovo je probna radio emisija.;00:09:03:04;00:00:01:21;1.84
+127;phrase_126_provera_nivoa_zvuka.wav;Provera nivoa zvuka.;00:09:08:07;00:00:01:07;1.28
+128;phrase_127_jedan_dva_tri_cetiri_pet.wav;Jedan, dva, tri, četiri, pet.;00:09:12:21;00:00:03:02;3.08
+129;phrase_128_sledi_vazna_informacija.wav;Sledi važna informacija.;00:09:19:04;00:00:01:14;1.56
+130;phrase_129_sledi_servisna_informacija.wav;Sledi servisna informacija.;00:09:23:24;00:00:01:18;1.72
+131;phrase_130_automatska_najava_je_zavrsena.wav;Automatska najava je završena;00:09:28:24;00:00:01:20;1.8
+132;phrase_131_informacija_trenutno_nije_dostupna.wav;Informacija trenutno nije dostupna.;00:09:34:02;00:00:02:03;2.12
+133;phrase_132_podaci_o_vremenu_trenutno_nisu_dostupni.wav;Podaci o vremenu trenutno nisu dostupni.;00:09:39:13;00:00:02:11;2.44
+134;phrase_133_podaci_o_temperaturi_trenutno_nisu_dostupni.wav;Podaci o temperaturi trenutno nisu dostupni.;00:09:45:06;00:00:02:18;2.72
+135;phrase_134_vi_ste_na_kanalu_pmr.wav;Vi ste na kanalu PMR.;00:09:51:06;00:00:01:17;1.68
+136;phrase_135_nalazite_se_na_kanalu_pmr.wav;Nalazite se na kanalu PMR.;00:09:56:05;00:00:02:08;2.32
+137;phrase_136_slusate_kanal_pmr.wav;Slušate kanal PMR.;00:10:01:18;00:00:01:13;1.52
+138;phrase_137_ovo_je_kanal_pmr.wav;Ovo je kanal PMR.;00:10:06:14;00:00:01:12;1.48
+139;phrase_138_trenutno_ste_na_kanalu_pmr.wav;Trenutno ste na kanalu PMR.;00:10:11:07;00:00:01:22;1.88
+140;phrase_139_jedan_plus.wav;Jedan plus.;00:10:16:12;00:00:00:22;0.88
+141;phrase_140_dva_plus.wav;Dva plus.;00:10:20:15;00:00:00:19;0.76
+142;phrase_141_tri_plus.wav;Tri plus.;00:10:24:16;00:00:00:17;0.68
+143;phrase_142_cetiri_plus.wav;Četiri plus.;00:10:28:15;00:00:00:22;0.88
+144;phrase_143_pet_plus.wav;Pet plus.;00:10:32:19;00:00:00:21;0.84
+145;phrase_144_sest_plus.wav;Šest plus.;00:10:36:22;00:00:01:01;1.04
+146;phrase_145_sedam_plus.wav;Sedam plus.;00:10:41:05;00:00:00:20;0.8
+147;phrase_146_osam_plus.wav;Osam plus.;00:10:45:07;00:00:00:24;0.96
+148;phrase_147_devet_plus.wav;Devet plus.;00:10:49:12;00:00:00:24;0.96
+149;phrase_148_deset_plus.wav;Deset plus.;00:10:53:18;00:00:00:22;0.88
+150;phrase_149_jedanaest_plus.wav;Jedanaest plus.;00:10:57:22;00:00:01:05;1.2
+151;phrase_150_dvanaest_plus.wav;Dvanaest plus.;00:11:02:09;00:00:01:04;1.16
+152;phrase_151_trinaest_plus.wav;Trinaest plus.;00:11:06:20;00:00:00:21;0.84
+153;phrase_152_cetrnaest_plus.wav;Četrnaest plus;00:11:10:24;00:00:01:05;1.2
+154;phrase_153_petnaest_plus.wav;Petnaest plus.;00:11:15:10;00:00:00:23;0.92
+155;phrase_154_sesnaest_plus.wav;Šesnaest plus.;00:11:19:15;00:00:01:04;1.16
+156;phrase_155_ekipe_obrenovac.wav;Ekipe Obrenovac.;00:11:24:01;00:00:01:06;1.24
+157;phrase_156_ekipa_obrenovac.wav;Ekipa Obrenovac.;00:11:28:14;00:00:01:06;1.24
+162;phrase_161_sdr.wav;SDR.;00:11:53:24;00:00:00:20;0.8
+163;phrase_162_sdr_kosutnjak.wav;SDR Košutnjak.;00:11:58:01;00:00:01:12;1.48
+164;phrase_163_ovo_je_sdr_kosutnjak.wav;Ovo je SDR Košutnjak.;00:12:02:19;00:00:02:09;2.36
+165;phrase_164_slusate_sdr_kosutnjak.wav;Slušate SDR Košutnjak.;00:12:08:10;00:00:02:07;2.28
+166;phrase_165_sdr_kosutnjak_vas_pozdravlja.wav;SDR Košutnjak vas pozdravlja.;00:12:13:23;00:00:02:06;2.24
+167;phrase_166_sdr_kosutnjak_vam_zeli_prijatan_dan.wav;SDR Košutnjak vam želi prijatan dan.;00:12:19:11;00:00:02:19;2.76
+168;phrase_167_sdr_kosutnjak_vam_zeli_prijatno_vece.wav;SDR Košutnjak vam želi prijatno veče.;00:12:25:12;00:00:02:22;2.88
+169;phrase_168_sdr_kosutnjak_vam_zeli_prijatnu_noc.wav;SDR Košutnjak vam želi prijatnu noć.;00:12:31:17;00:00:03:02;3.08
+170;phrase_169_ekipe.wav;Ekipe.;00:12:38:00;00:00:00:13;0.52
+171;phrase_170_ekipa.wav;Ekipa.;00:12:41:22;00:00:00:15;0.6
+173;phrase_172_radio.wav;Radio.;00:12:49:18;00:00:00:16;0.64
+174;phrase_173_mreze.wav;Mreže.;00:12:53:16;00:00:00:14;0.56
+175;phrase_174_srbije.wav;Srbije.;00:12:57:11;00:00:00:14;0.56
+176;phrase_175_kosutnjak.wav;Košutnjak.;00:13:01:07;00:00:00:21;0.84
+177;phrase_176_vas_pozdravlja.wav;Vas pozdravlja.;00:13:05:08;00:00:00:22;0.88
+178;phrase_177_vam_zeli.wav;Vam želi.;00:13:09:12;00:00:00:13;0.52
+179;phrase_178_zeli_vam.wav;Želi vam.;00:13:13:07;00:00:00:16;0.64
+180;phrase_179_i.wav;I.;00:13:17:03;00:00:00:08;0.32
+181;phrase_181_za.wav;Za.;00:13:20:18;00:00:00:07;0.28
+182;phrase_182_clanove.wav;Članove.;00:13:24:07;00:00:00:14;0.56
+183;phrase_183_slusaoce.wav;Slušaoce.;00:13:28:03;00:00:00:20;0.8
+184;phrase_184_vi_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac.wav;Vi ste na kanalu PMR trinaest ekipe Obrenovac.;00:13:32:05;00:00:03:11;3.44
+186;phrase_186_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatan_dan.wav;Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatan dan.;00:13:46:14;00:00:04:24;4.96
+187;phrase_187_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatno_vece.wav;Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatno veče.;00:13:54:20;00:00:04:22;4.88
+188;phrase_188_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatnu_noc.wav;Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatnu noć.;00:14:02:24;00:00:05:02;5.08
+189;phrase_189_pozdrav_svim_slusaocima_vi_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac.wav;Pozdrav svim slušaocima. Vi ste na kanalu PMR trinaest ekipe Obrenovac.;00:14:11:09;00:00:05:13;5.52
+191;phrase_191_dobar_dan_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatan_da.wav;Dobar dan. Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatan dan.;00:14:28:09;00:00:05:16;5.64
+192;phrase_192_dobro_vece_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatno_v.wav;Dobro veče. Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatno veče.;00:14:37:07;00:00:05:24;5.96
+193;phrase_193_slusate_kanal_pmr_sest_sdr_kosutnjak_vas_pozdravlja.wav;Slušate kanal PMR šest. SDR Košutnjak vas pozdravlja.;00:14:46:12;00:00:04:05;4.2
+195;phrase_195_trenutno_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac.wav;Trenutno ste na kanalu PMR trinaest ekipe Obrenovac.;00:15:01:07;00:00:03:18;3.72
+196;phrase_196_dobro_jutro_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatan_.wav;Dobro jutro. Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatan dan.;00:15:08:06;00:00:05:20;5.8
+197;phrase_197_dobar_dan_vi_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac.wav;Dobar dan. Vi ste na kanalu PMR trinaest ekipe Obrenovac;00:15:17:08;00:00:04:07;4.28
+199;phrase_199_pozdrav_svim_slusaocima_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vas_po.wav;Pozdrav svim slušaocima. Vi ste na kanalu PMR šest. SDR Košutnjak vas pozdravlja.;00:15:33:14;00:00:06:09;6.36
+201;phrase_201_ovo_je_sdr_kosutnjak_vi_ste_na_kanalu_pmr_sest.wav;Ovo je SDR Košutnjak. Vi ste na kanalu PMR šest.;00:15:51:09;00:00:04:12;4.48
+202;phrase_202_slusate_sdr_kosutnjak_nalazite_se_na_kanalu_pmr_sest.wav;Slušate SDR Košutnjak. Nalazite se na kanalu PMR šest.;00:15:59:02;00:00:05:01;5.04
+203;phrase_203_dobar_dan_ovo_je_sdr_kosutnjak_vi_ste_na_kanalu_pmr_sest_tacno_je_cetr.wav;Dobar dan. Ovo je SDR Košutnjak. Vi ste na kanalu PMR šest. Tačno je četrnaest časova.;00:16:07:10;00:00:07:10;7.4
+205;phrase_205_pozdrav_svim_slusaocima_vi_ste_na_kanalu_pmr_trinaest_ekipe_obrenovac_.wav;Pozdrav svim slušaocima. Vi ste na kanalu PMR trinaest ekipe Obrenovac. Trenutna temperatura je dvadeset dva stepena.;00:16:28:12;00:00:09:01;9.04
+206;phrase_206_dobar_dan_vi_ste_na_kanalu_pmr_sest_sdr_kosutnjak_vam_zeli_prijatan_da.wav;Dobar dan. Vi ste na kanalu PMR šest. SDR Košutnjak vam želi prijatan dan. Hvala na pažnji.;00:16:40:21;00:00:07:00;7.0
+208;phrase_208_dobro_jutro_dragi_obrenovcani_obrenka_je_uz_vas.wav;Dobro jutro, dragi Obrenovčani. Obrenka je uz vas.;00:17:01:24;00:00:03:03;3.12
+209;phrase_209_dobar_dan_komsije_pozdravlja_vas_vasa_obrenka.wav;Dobar dan, komšije. Pozdravlja vas vaša Obrenka.;00:17:08:06;00:00:03:13;3.52
+210;phrase_210_dobro_vece_obrenovce_uz_vas_je_obrenka.wav;Dobro veče, Obrenovče. Uz vas je Obrenka.;00:17:15:01;00:00:02:23;2.92
+211;phrase_211_dragi_prijatelji_javlja_vam_se_obrenka.wav;Dragi prijatelji, javlja vam se Obrenka.;00:17:21:06;00:00:02:14;2.56
+212;phrase_212_jedan_veliki_pozdrav_za_obrenovac_i_sve_dobre_ljude_na_vezi.wav;Jedan veliki pozdrav za Obrenovac i sve dobre ljude na vezi.;00:17:27:03;00:00:03:07;3.28
+213;phrase_213_evo_mene_ponovo_da_vas_podsetim_koliko_je_sati.wav;Evo mene ponovo, da vas podsetim koliko je sati.;00:17:33:17;00:00:02:20;2.8
+214;phrase_214_da_ne_gledate_na_sat_obrenka_je_tu.wav;Da ne gledate na sat, Obrenka je tu.;00:17:39:19;00:00:02:00;2.0
+215;phrase_215_samo_na_trenutak_da_vam_se_javim.wav;Samo na trenutak da vam se javim.;00:17:45:00;00:00:01:20;1.8
+216;phrase_216_za_komsije_na_kanalu_trinaest_stizu_tacno_vreme_i_prognoza.wav;Za komšije na kanalu trinaest, stižu tačno vreme i prognoza.;00:17:50:02;00:00:04:03;4.12
+217;phrase_217_cuvajte_se_i_budite_dobro_vasa_obrenka.wav;Čuvajte se i budite dobro. Vaša Obrenka.;00:17:57:12;00:00:03:04;3.16
+218;phrase_218_hvala_vam_sto_ste_bili_uz_mene_cujemo_se_na_sledeci_puni_sat.wav;Hvala vam što ste bili uz mene. Čujemo se na sledeći puni sat.;00:18:03:23;00:00:04:02;4.08
+219;phrase_219_budite_mi_vedri_zdravi_i_nasmejani.wav;Budite mi vedri, zdravi i nasmejani.;00:18:11:04;00:00:02:14;2.56
+220;phrase_220_hvala_na_paznji_komsije_obrenka_vas_srdacno_pozdravlja.wav;Hvala na pažnji, komšije. Obrenka vas srdačno pozdravlja.;00:18:17:00;00:00:04:00;4.0
+221;phrase_221_za_obrenovac_sa_osmehom_vasa_obrenka.wav;Za Obrenovac, sa osmehom. Vaša Obrenka.;00:18:24:06;00:00:03:12;3.48
+222;phrase_222_obrenka_kaze_osmeh_na_lice_i_polako_kroz_dan.wav;Obrenka kaže, osmeh na lice i polako kroz dan.;00:18:31:00;00:00:03:09;3.36
+223;phrase_223_komsije_cuvajte_jedni_druge_pozdravlja_vas_obrenka.wav;Komšije, čuvajte jedni druge. Pozdravlja vas Obrenka.;00:18:37:17;00:00:03:16;3.64
+224;automatic_information.wav;Sledi automatska informacija.;00:18:44:12;00:00:01:21;1.84
+225;current_temperature_is.wav;Trenutna temperaturaje.;00:18:49:15;00:00:01:10;1.4
+226;current_time_is.wav;Trenutno je.;00:18:54:07;00:00:00:19;0.76
+227;greeting_generic.wav;Pozdrav svim slušaocima.;00:18:58:08;00:00:01:19;1.76
+228;greeting_listeners.wav;Poštovani slušaoci.;00:19:03:09;00:00:01:03;1.12
+229;minus.wav;Minus.;00:19:07:19;00:00:00:15;0.6
+230;noon.wav;Podne.;00:19:11:17;00:00:00:11;0.44
+231;outside_temperature_is.wav;Spoljna temperatura je.;00:19:15:10;00:00:01:05;1.2
+232;station_biken_short.wav;Ovo je Biken.;00:19:19:21;00:00:00:20;0.8
+233;temperature_is.wav;Temperatura je.;00:19:23:23;00:00:00:22;0.88
+234;word_time_is.wav;Vreme je.;00:19:28:01;00:00:00:12;0.48

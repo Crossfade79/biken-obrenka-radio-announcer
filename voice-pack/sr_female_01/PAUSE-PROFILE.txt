@@ -1,0 +1,8 @@
+NATURAL RADIO PAUSE PROFILE V1
+
+Leading silence: 120 ms
+Trailing silence for short samples: 180 ms
+Trailing silence for samples 3.5 s or longer: 220 ms
+
+No speech content, text mapping, filenames, loudness, CSS, code,
+scheduler, PPS or PTT logic was changed.

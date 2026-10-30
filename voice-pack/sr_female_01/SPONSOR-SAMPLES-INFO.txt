@@ -1,0 +1,10 @@
+Added samples:
+224 — Generalni sponzor Obrenkine vremenske prognoze.
+225 — Nedelja Kanarevo.
+
+Processing:
+- mono 48 kHz PCM16
+- speech target about -18 LUFS
+- 120 ms leading silence
+- 180 ms trailing silence
+- no code/CSS/preset changes
